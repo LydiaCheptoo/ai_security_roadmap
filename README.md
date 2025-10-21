@@ -65,5 +65,4 @@ Tech & Social Impact Leader | Math & Computer Science Student | Cybersecurity + 
 
 🌍 *Empowering communities through innovation & leadership.*  
 
-📫 **Connect with me:**  
-[LinkedIn](https://linkedin.com/in/lydiacheptoo) | [GitHub](https://github.com/LydiaCheptoo)
+
