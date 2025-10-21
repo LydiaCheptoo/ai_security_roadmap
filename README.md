@@ -43,6 +43,7 @@ AI_SECURITY_ROADMAP/
 │   └── tools_and_links.md
 │
 └── README.md
+```
 
 ## 🎯 Personal & Technical Goals  
 
